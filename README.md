@@ -2,10 +2,7 @@
 
 Just doing random stuff to figure out something...
 
-<img src="https://media.giphy.com/media/hD4YlRIt07XXbWyEna/giphy.gif" width="420" alt="figuring it out one nail at a time" />
-
-<!-- If the gif above still doesn't load, download it into your repo and use a relative path instead:
-<img src="hammer.gif" width="420" alt="figuring it out one nail at a time" /> -->
+<img src="hammer.gif" width="420" alt="figuring it out one nail at a time" />
 
 *me, most days*
 
@@ -18,3 +15,6 @@ CS student who learns by building things, breaking them, and occasionally shippi
 - **Sash** - drop-in auth so I never have to hand-roll a login flow again.
 - **Tago** - NFC cards that actually do something when you tap them.
 
+**Tools I keep swinging at nails:** TypeScript · Next.js · Python · PostgreSQL · Redis · LangGraph
+
+**Find me:** [LinkedIn](https://linkedin.com/in/shubh-gupta-27918428a) · [shubh-gupta.in](https://shubh-gupta.in)
