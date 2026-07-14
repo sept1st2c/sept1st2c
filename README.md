@@ -7,6 +7,7 @@
 
 <br />
 
-<img src="https://media.tenor.com/t4Tghf_X8CwAAAAd/orangutan-hammer.gif" width="480" alt="Orangutan Hammering" />
+<!-- Plays exactly like a GIF -->
+<video src="3VCN3gk.mp4" width="480" autoplay loop muted playsinline></video>
 
 </div>
