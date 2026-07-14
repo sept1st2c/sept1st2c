@@ -2,7 +2,10 @@
 
 Just doing random stuff to figure out something...
 
-<img src="https://media1.tenor.com/m/7LL9Sz_czDkAAAAd/orangutan-hammer.gif" width="420" alt="figuring it out one nail at a time" />
+<img src="https://media.giphy.com/media/hD4YlRIt07XXbWyEna/giphy.gif" width="420" alt="figuring it out one nail at a time" />
+
+<!-- If the gif above still doesn't load, download it into your repo and use a relative path instead:
+<img src="hammer.gif" width="420" alt="figuring it out one nail at a time" /> -->
 
 *me, most days*
 
