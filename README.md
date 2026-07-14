@@ -7,7 +7,6 @@
 
 <br />
 
-<!-- Your chosen working GIF -->
-<img src="https://media.tenor.com/t4Tghf_X8CwAAAAC/orangutan-hammer.gif" width="480" alt="Orangutan Hammering" />
+<img src="https://media.tenor.com/t4Tghf_X8CwAAAAd/orangutan-hammer.gif" width="480" alt="Orangutan Hammering" />
 
 </div>
