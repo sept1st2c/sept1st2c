@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 # Yo, I'm Shubh 👋
@@ -10,8 +7,7 @@
 
 <br />
 
-<!-- Plays exactly like a GIF -->
-
-<img src="https://github.com/user-attachments/assets/d68f3cb3-a8b3-4e91-afb3-6217748134ef" width="480" />
+<!-- Foolproof direct image link -->
+<img src="https://i.imgur.com/Kq546R6.gif" width="480" alt="Orangutan Hammering" />
 
 </div>
