@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 # Yo, I'm Shubh 👋
@@ -8,6 +11,7 @@
 <br />
 
 <!-- Plays exactly like a GIF -->
-<video src="./3VCN3gk.mp4" width="480" autoplay loop muted playsinline></video>
+
+<img src="https://github.com/user-attachments/assets/d68f3cb3-a8b3-4e91-afb3-6217748134ef" width="480" />
 
 </div>
